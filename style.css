@@ -1,0 +1,13 @@
+    body{
+      text-align: center;
+    }
+    img{
+      display: block;
+      margin: auto;
+    }
+    .img_box{
+      width: 70%;
+      padding: 20px;
+      background-color: lightblue;
+      margin: auto;
+    }
